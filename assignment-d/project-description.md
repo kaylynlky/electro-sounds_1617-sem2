@@ -36,6 +36,8 @@ The second sketch which is more fluid which consists of noise fluids. The code w
 
 The main difficulty of the sketch is to not show ControlP5 into Syphon, but appears in Processing and record while performing with CP5. Initially, I put in place setAutoDraw(); and cp5.draw() after the end of syphon recording code. However, it doesnt work because the framebuffer never get cleared, heance the image sitll controls the image inside. Tried many processing forum, most did the steps above but it doesnt work on my sketch (refer to archive for reference pictures). Hence, would have to add buffer.() to anything inside void draw(). In order for PGraphics and Controllers so they would not be rendered into the frame, thus, this is the only soulution to this problem.
 
+<i>Last minute decided to remove Sketch3 from the video. Although I like the shader waves-like pattern I created, however, it did not really matched the simplexity feel at certain points and it the video turn out to look messy and loss of direction.</i>
+
 Pleased and satisfied with my minimalist nature concept sketches.
 
 Thank you Lecturer Andy for his guidance and patience throughout the semester.
