@@ -11,5 +11,5 @@ Blog: https://processingwkay.tumblr.com/
 
 # Video 
 
-[video]()
+[video](https://vimeo.com/213677997)
 
