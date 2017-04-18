@@ -1,3 +1,6 @@
+// did not use this sketch in video anymore.
+// additional refinement by adding shaders and waves from final_code2_noisefield_sketch.
+
 import ddf.minim.*;
 import ddf.minim.analysis.*;
 import codeanticode.syphon.SyphonServer;
