@@ -4,7 +4,7 @@
 //Inspired by Fluid Leaves, Okdeluxe
 //Soundtrack Used: "Breathe" by Kaylyn Lee
 //https://vimeo.com/213677997
-//Libraries Used: Minim, Beat detect, Syphon, CP5
+//Libraries Used: Minim, Beat detect, Syphon
 
 
 //IMPORT LIBRARIES
